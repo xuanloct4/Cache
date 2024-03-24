@@ -19,6 +19,8 @@ PODS:
     - CocoaLumberjack/Core (= 3.8.5)
   - CocoaLumberjack/Core (3.8.5)
   - Kingfisher (7.11.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
   - MJRefresh (3.7.8)
   - SDWebImage (5.19.0):
     - SDWebImage/Core (= 5.19.0)
@@ -34,6 +36,8 @@ DEPENDENCIES:
   - Alamofire
   - CocoaLumberjack
   - Kingfisher
+  - Masonry
+  - MBProgressHUD
   - MJRefresh
   - SDWebImage
   - SnapKit
@@ -46,6 +50,8 @@ SPEC REPOS:
     - Alamofire
     - CocoaLumberjack
     - Kingfisher
+    - Masonry
+    - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - SnapKit
@@ -57,12 +63,14 @@ SPEC CHECKSUMS:
   Alamofire: 02b772c9910e8eba1a079227c32fbd9e46c90a24
   CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
   Kingfisher: b9c985d864d43515f404f1ef4a8ce7d802ace3ac
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   MJRefresh: 4e6e7ba77a6d5fab012426777e32b0a77127c50a
   SDWebImage: 981fd7e860af070920f249fd092420006014c3eb
   SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
   SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
   SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
 
-PODFILE CHECKSUM: 4f310bd51e8f056aef255fff77d813e9d3b1a2fc
+PODFILE CHECKSUM: 8fabf4921df07ffdf9c684b404b315b7da9728a7
 
 COCOAPODS: 1.15.2
